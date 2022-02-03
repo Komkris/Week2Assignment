@@ -1,0 +1,15 @@
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\Week2AssignmentPatrick.exe
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\Week2AssignmentPatrick.deps.json
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\Week2AssignmentPatrick.runtimeconfig.json
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\Week2AssignmentPatrick.dll
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\ref\Week2AssignmentPatrick.dll
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\bin\Debug\net6.0\Week2AssignmentPatrick.pdb
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.csproj.AssemblyReference.cache
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.AssemblyInfoInputs.cache
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.AssemblyInfo.cs
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.csproj.CoreCompileInputs.cache
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.dll
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\ref\Week2AssignmentPatrick.dll
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.pdb
+C:\Users\komkr\source\repos\Week2AssignmentPatrick\obj\Debug\net6.0\Week2AssignmentPatrick.genruntimeconfig.cache
